@@ -10,8 +10,7 @@ Proyek ini membandingkan **9 model Machine Learning dan Deep Learning** dalam me
 ---
 
 ## 📊 Dataset  
-Dataset diperoleh dari **Kaggle**: *[Stroke Prediction Dataset](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)*  
-Fitur utama:  
+Dataset diperoleh dari **Kaggle** dengan fitur utama:  
 - **Demografi**: Gender, usia, status pernikahan  
 - **Kesehatan**: Hipertensi, penyakit jantung, BMI, kadar glukosa  
 - **Gaya Hidup**: Status merokok, jenis pekerjaan, tempat tinggal  
